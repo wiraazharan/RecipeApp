@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FortitudeAsia</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="recipetype">
+
+        <item id="1">Vegetarian</item>
+        <item id="2">Fast Food</item>
+        <item id="3">Healthy</item>
+        <item id="4">No-Cook</item>
+        <item id="5">Make Ahead</item>
+
+    </string-array>
+
+
+
+
+</resources>
